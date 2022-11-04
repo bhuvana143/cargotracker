@@ -20,7 +20,7 @@
         <webapp.graphTraversalUrl>http://localhost:8080/cargo-tracker/rest/graph-traversal/shortest-path</webapp.graphTraversalUrl>
     </properties>
 
-    <!-- We need to use the PrimeFaces repository -->
+    <!--modify ** We need to use the PrimeFaces repository -->
     <repositories>
         <repository>
             <id>primefaces</id>
